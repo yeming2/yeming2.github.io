@@ -1,4 +1,3 @@
-# yeming2.github.io
 # 🌱 사계도원 IP 프로젝트 (Four Seasons Garden Universe)
 
 **사계도원**은 동아시아 신화와 자연을 모티브로 한 독창적인 세계관 기반 IP(지식재산권) 프로젝트입니다.  
